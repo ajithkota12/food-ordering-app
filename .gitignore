@@ -1,0 +1,16 @@
+# Ignore dependencies
+node_modules/
+.cache/
+
+# Ignore builds
+build/
+dist/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore Vercel deployment files
+.vercel/
